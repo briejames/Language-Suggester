@@ -1,1 +1,1 @@
-$().jquery
+$(document).ready()
