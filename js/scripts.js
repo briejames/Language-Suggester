@@ -1,5 +1,1 @@
-$(document).ready(function() {
-  console.log("Jquery loaded properly");
-});
-
-$("drop")
+$().jquery
