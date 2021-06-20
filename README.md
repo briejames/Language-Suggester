@@ -10,9 +10,9 @@
 * _Terminal_
 * _JavaScript_
 * _Github_
-*_JavaScript_
-*_jquery_
-*_bootstrap_
+* _JavaScript_
+* _jquery_
+* _bootstrap_
 
 
 ## Description
